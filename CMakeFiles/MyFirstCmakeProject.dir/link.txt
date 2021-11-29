@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/MyFirstCmakeProject.dir/main.cpp.o -o MyFirstCmakeProject.exe -Wl,--out-implib,libMyFirstCmakeProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
